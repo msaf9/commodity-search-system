@@ -1,0 +1,160 @@
+body
+{
+	margin: 0;
+	padding: 0;
+    background-size: cover;   
+	background-color:#808080;
+	width:100%;
+	font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+    background-image: url("marks.png");
+    color:white;
+}
+
+.heading {
+	width: 100%;
+	background: #13232f;
+	height: 108px;
+}
+
+.logo 
+{	
+	width:20px; 
+	height: 10px;
+	padding: 0px 0px 0px 0px; 
+	position:absolute;
+}
+
+.navleft
+{
+	float: left;
+	padding-left:400px;
+	padding-right:20px;
+	padding-top: 20px;
+	padding-bottom:20px;
+}
+
+.navright
+{
+	float: right;
+	padding: 30px 30px;
+}
+
+ul{
+	overflow: auto;
+	list-style-type: none;
+}
+
+li {
+  float: left;
+  padding-left: 50px;
+  padding-bottom: 10px;
+}
+ 
+li a {
+  text-decoration: none;
+  color: rgba(255,255,255,0.9);
+  font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+}
+ 
+li a:hover {
+  color:#1ab188 ;
+}
+
+button {
+	    border: 0;
+        outline: none;
+        border-radius: 0;
+        padding: 7px 17px;
+	    background-color:#1ab188;
+	    color: white;
+	    font-size: 16px;
+	    align:right;
+	    margin: 3px;
+}
+
+button:hover {
+	background-color: grey;
+	border-color: white;
+	color: white;
+	font-weight: bold;
+
+}
+
+.user {
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    padding:0px  160px ;
+    align:center;
+    position: relative ;   
+}
+
+.loginBox {
+  background-color:#13232f;
+  padding:40px 50px;
+  max-width: 450px;
+  height:450px;
+  margin:80px auto;
+  margin-top: 30px ;
+  margin-bottom: 30px ;
+  border-radius: 5px;
+}
+
+h2 {
+	font-size:22px;
+	color: White;
+	margin-top: 0px;
+	margin-bottom: 30px; 
+}
+
+.loginBox input {
+	width: 100%;
+	margin-bottom:15px;
+}
+
+.loginBox input[type="text"],
+.loginBox input[type="Password"] {
+	border:1px solid black;
+	height: 50px;
+	background: transparent;
+	color: white;
+	font-size: 16px;
+}
+
+::placeholder
+{
+	color: grey;
+}
+
+.loginBox input[type="submit"]
+{
+	border: 0;
+  outline: none;
+  border-radius: 0;
+  padding: 10px 0;
+  font-size: 2rem;
+  font-weight: 600;
+  letter-spacing: .1em;
+  background: #1ab188;
+  color: #ffffff;
+}
+
+.loginBox input[type="submit"]:hover
+{
+	background:Grey;
+	color: Black;
+}
+
+.loginBox a
+{
+	color: #ffffff;
+	font-size: 20px;
+	font-weight: bold;
+    text-decoration:none;
+	
+}
+
+.loginBox a:hover
+{
+	color:black;
+}
