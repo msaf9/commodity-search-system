@@ -16,6 +16,7 @@ Using this Commodity Search System, the business can understand what are the dif
 - CSS
 - JavaScript
 - PHP
+- SQL
 
 ### Web server
 - XAMPP/ Wamp server
