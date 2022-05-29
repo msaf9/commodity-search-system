@@ -11,6 +11,12 @@ Commodity Search System is a digital inventory management tool for business.
 ## Introduction
 Using this Commodity Search System, the business can understand what are the different units of commodities available, sales, and manage various commodity items.
 
+### Course information
+- Course Name: Platform Based Development
+- Course Code: 15CS3113
+- Course Credits: 4
+- Academic Year: 2017
+
 ## Technologies
 - HTML 
 - CSS
