@@ -1,12 +1,14 @@
 # Commodity Search System
 Commodity Search System is a digital inventory management tool for business.
 
-## Table of contents
-1. Introduction
-2. Technologies
-3. Project status
-4. Installation
-5. License
+- [Commodity Search System](#commodity-search-system)
+  - [Introduction](#introduction)
+  - [Technologies](#technologies)
+    - [Web server](#web-server)
+  - [Project status](#project-status)
+  - [Installation](#installation)
+    - [Get repository](#get-repository)
+  - [License](#license)
 
 ## Introduction
 Using this Commodity Search System, the business can understand what are the different units of commodities available, sales, and manage various commodity items.
