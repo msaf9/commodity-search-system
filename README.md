@@ -3,6 +3,7 @@ Commodity Search System is a digital inventory management tool for business.
 
 - [Commodity Search System](#commodity-search-system)
   - [Introduction](#introduction)
+    - [Course information](#course-information)
   - [Technologies](#technologies)
     - [Web server](#web-server)
   - [Project status](#project-status)
