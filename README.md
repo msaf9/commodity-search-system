@@ -42,8 +42,8 @@ Using this Commodity Search System, the business can understand what are the dif
 ### Get repository
 
 ```git
-git https://github.com/msaf9/CommoditySearchSystem.git
-cd CommoditySearchSystem
+git https://github.com/msaf9/commodity-search-system.git
+cd commodity-search-system
 ```
 
 ## License
