@@ -1,9 +1,11 @@
 <h1> Commodity Search System </h1>
 Commodity Search System is a digital inventory management tool for business.
 
+<h2>Table of contents</h2>
+
 - [Introduction](#introduction)
   - [Course information](#course-information)
-- [Technologies](#technologies)
+- [Programming Languages](#programming-languages)
   - [Web server](#web-server)
 - [Project status](#project-status)
 - [Installation](#installation)
@@ -21,7 +23,7 @@ Using this Commodity Search System, the business can understand what are the dif
 - Course Credits: 4
 - Academic Year: 2017
 
-## Technologies
+## Programming Languages
 
 - HTML
 - CSS
